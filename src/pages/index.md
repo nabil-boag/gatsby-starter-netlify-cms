@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Hey There Blimpy Boyz
+title: What's up Blimpy Boy
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
