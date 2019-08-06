@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: What's up Blimpy Boy
-image: /img/home-jumbotron.jpg
+title: What's up Blimpy Boyz
+image: /img/products-grid3.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
@@ -18,12 +18,6 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
     - image: /img/coffee.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
@@ -45,6 +39,12 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
+    - image: /img/coffee-gear.png
+      text: >
+        We offer a small, but carefully curated selection of brewing gear and
+        tools for every taste and experience level. No matter if you roast your
+        own beans or just bought your first french press, you’ll find a gadget
+        to fall in love with in our shop.
   heading: What we offer
   description: >
     Ovo is the ultimate spot for coffee lovers who want to learn about their
